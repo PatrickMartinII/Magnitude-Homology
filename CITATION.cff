@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Magnitude Homology
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patrick
+    family-names: Martin
+    name-suffix: II
+repository-code: >-
+  https://github.com/PatrickMartinII/Magnitude-Homology/tree/main
+keywords:
+  - Magnitude
+  - Magnitude Homology
+  - Eulerian Magnitude Homology
