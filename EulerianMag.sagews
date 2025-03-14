@@ -1,4 +1,3 @@
-︠6934c1f5-7b05-4515-ac67-91609890ea44︠
 import re
 BaseRing = IntegerRing()
 #BaseRing = RationalField()
@@ -372,9 +371,6 @@ for l in range(0, lmax + 1):
             print ('{0:2d}'.format(total_rank[k, l]), end="  |")
         else:
             print ('    ', end="|")
-︡e2d9867d-8d25-4697-b5e5-aaa7f51296ce︡{"file":{"filename":"/tmp/tmpd3dq29xw/tmp_hzmuo_qi.svg","show":true,"text":null,"uuid":"a4d3de25-45b6-485f-8d58-c7a81b0947f1"},"once":false}︡{"stdout":"this graph\n"}︡{"stdout":"lmax = 10\n"}︡{"stdout":"\n\r 0: |13  |    |    |    |    |    |    |    |    |    |    |\n\r 1: |    |26  |    |    |    |    |    |    |    |    |    |\n\r 2: |    |    |    |    |    |    |    |    |    |    |    |\n\r 3: |    |    |52  |    |    |    |    |    |    |    |    |\n\r 4: |    |    |    |    |    |    |    |    |    |    |    |\n\r 5: |    |    |    |104  |    |    |    |    |    |    |    |\n\r 6: |    |    |    |52  |    |    |    |    |    |    |    |\n\r 7: |    |    |26  |26  |156  |    |    |    |    |    |    |\n\r 8: |    |    |    |78  |156  |    |    |    |    |    |    |\n\r 9: |    |    |    |    |286  |234  |    |    |    |    |    |\n\r10: |    |    |    |    |390  |312  |    |    |    |    |    |"}︡{"done":true}
-︠ff978ed0-0935-4bef-88de-fb09d9c1460d︠
-
 
 
 
