@@ -1,6 +1,6 @@
 # Magnitude-Homology
 
- This is altered agemath code provided via Hepworth and Willerton in their paper "Categorifying the magnitude of a graph."
+ This is altered sagemath code provided via Hepworth and Willerton in their paper "Categorifying the magnitude of a graph."
  Changes were made to be able to compute Eulerian magnitude homology and to find the explicit generators of torsion subgroups.
 
  Uncomment lines 31 and 86 for Eulerian magnitude homology.
